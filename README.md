@@ -1,7 +1,7 @@
 # Pico-toy
 Let's make the Cat's dream come true (=^I^=) 
 ## Hardware list
-Raspberry Pi Pico Starter Set, including PIR-sensor, servomotor, Laser, DC-Motor, LCD-1602A and many more.
+Raspberry Pi Pico Starter Kit, including PIR-sensor, servomotor, Laser, DC-Motor, LCD-1602A and many more.
 
 ## Terminology
 - Motion detection via PIR-sensor
