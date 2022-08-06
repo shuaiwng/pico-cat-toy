@@ -1,2 +1,2 @@
 # pico-toy
-Cat gets boring? Get some pico-toy ~v~
+Let's make the Cat's dream come true ~v~
