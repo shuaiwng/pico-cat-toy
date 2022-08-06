@@ -5,7 +5,7 @@ Raspberry Pi Pico Starter Kit, including PIR-sensor, servomotor, Laser, DC-Motor
 
 ## Terminology
 - Motion detection via PIR-sensor
-- Stear Laser-pointer for cat's attention
+- Steer Laser-pointer for cat's attention
 - Create rotating target using Fan
 - Repeat actions
 - Introduce delay among sessions
