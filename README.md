@@ -1,7 +1,7 @@
 Let's make the Cat's dream come true (=^I^=) 
 ## Hardware list
 Raspberry Pi Pico Starter Kit, including PIR-sensor, servomotor, Laser, DC-Motor, LCD-1602A and many more.
-![](hardware_top.png?raw=true)
+![Setup](hardware_top.png?raw=true)
 
 ## IDE
 Thonny-Python
