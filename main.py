@@ -17,9 +17,9 @@ if __name__ == "__main__":
     repeat_fan = 5
     play_enabled = True
 
-    # initialize moduls
+    # initialize modules
     i2c = I2C(0,scl=Pin(5), sda=Pin(4), freq=100000)               #define LCD I/O PIN and Freq.
-    lcd = I2cLcd(i2c, DEFAULT_I2C_ADDR, 2, 16)                     #define I2C defult address.
+    lcd = I2cLcd(i2c, DEFAULT_I2C_ADDR, 2, 16)                     #define I2C default address.
     lcd.show_welcome()
 
     laser = Laser()
